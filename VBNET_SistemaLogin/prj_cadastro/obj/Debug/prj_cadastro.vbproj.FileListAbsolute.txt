@@ -1,0 +1,103 @@
+C:\Users\Aluno\Desktop\prj_cadastro\bin\Debug\prj_cadastro.exe.config
+C:\Users\Aluno\Desktop\prj_cadastro\bin\Debug\prj_cadastro.exe
+C:\Users\Aluno\Desktop\prj_cadastro\bin\Debug\prj_cadastro.pdb
+C:\Users\Aluno\Desktop\prj_cadastro\bin\Debug\prj_cadastro.xml
+C:\Users\Aluno\Desktop\prj_cadastro\obj\Debug\prj_cadastro.vbproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\prj_cadastro\obj\Debug\prj_cadastro.Form1.resources
+C:\Users\Aluno\Desktop\prj_cadastro\obj\Debug\prj_cadastro.Resources.resources
+C:\Users\Aluno\Desktop\prj_cadastro\obj\Debug\prj_cadastro.vbproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\prj_cadastro\obj\Debug\prj_cadastro.vbproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\prj_cadastro\obj\Debug\prj_cadastro.exe
+C:\Users\Aluno\Desktop\prj_cadastro\obj\Debug\prj_cadastro.xml
+C:\Users\Aluno\Desktop\prj_cadastro\obj\Debug\prj_cadastro.pdb
+C:\Users\Aluno\Desktop\prj_cadastro\obj\Debug\prj_cadastro.frm_cadastro.resources
+D:\DADOS\20252S\prj_cadastro\bin\Debug\prj_cadastro.exe.config
+D:\DADOS\20252S\prj_cadastro\bin\Debug\prj_cadastro.exe
+D:\DADOS\20252S\prj_cadastro\bin\Debug\prj_cadastro.pdb
+D:\DADOS\20252S\prj_cadastro\bin\Debug\prj_cadastro.xml
+D:\DADOS\20252S\prj_cadastro\obj\Debug\prj_cadastro.vbproj.AssemblyReference.cache
+D:\DADOS\20252S\prj_cadastro\obj\Debug\Interop.ADODB.dll
+D:\DADOS\20252S\prj_cadastro\obj\Debug\prj_cadastro.vbproj.ResolveComReference.cache
+D:\DADOS\20252S\prj_cadastro\obj\Debug\prj_cadastro.Form1.resources
+D:\DADOS\20252S\prj_cadastro\obj\Debug\prj_cadastro.frm_cadastro.resources
+D:\DADOS\20252S\prj_cadastro\obj\Debug\prj_cadastro.Resources.resources
+D:\DADOS\20252S\prj_cadastro\obj\Debug\prj_cadastro.vbproj.GenerateResource.cache
+D:\DADOS\20252S\prj_cadastro\obj\Debug\prj_cadastro.vbproj.CoreCompileInputs.cache
+D:\DADOS\20252S\prj_cadastro\obj\Debug\prj_cadastro.exe
+D:\DADOS\20252S\prj_cadastro\obj\Debug\prj_cadastro.xml
+D:\DADOS\20252S\prj_cadastro\obj\Debug\prj_cadastro.pdb
+D:\VBNET_aula\prj_cadastro\prj_cadastro\bin\Debug\prj_cadastro.exe.config
+D:\VBNET_aula\prj_cadastro\prj_cadastro\bin\Debug\prj_cadastro.exe
+D:\VBNET_aula\prj_cadastro\prj_cadastro\bin\Debug\prj_cadastro.pdb
+D:\VBNET_aula\prj_cadastro\prj_cadastro\bin\Debug\prj_cadastro.xml
+D:\VBNET_aula\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.vbproj.AssemblyReference.cache
+D:\VBNET_aula\prj_cadastro\prj_cadastro\obj\Debug\Interop.ADODB.dll
+D:\VBNET_aula\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.vbproj.ResolveComReference.cache
+D:\VBNET_aula\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.Form1.resources
+D:\VBNET_aula\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.frm_cadastro.resources
+D:\VBNET_aula\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.Resources.resources
+D:\VBNET_aula\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.vbproj.GenerateResource.cache
+D:\VBNET_aula\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.vbproj.CoreCompileInputs.cache
+D:\VBNET_aula\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.exe
+D:\VBNET_aula\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.xml
+D:\VBNET_aula\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.pdb
+D:\VBNET_aula\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.Form2.resources
+D:\VBNET_aula\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.Form3.resources
+C:\Users\piter\OneDrive\Área de Trabalho\VBNET_aulasistema\VBNET_aulasistema\prj_cadastro\prj_cadastro\bin\Debug\prj_cadastro.exe.config
+C:\Users\piter\OneDrive\Área de Trabalho\VBNET_aulasistema\VBNET_aulasistema\prj_cadastro\prj_cadastro\bin\Debug\prj_cadastro.exe
+C:\Users\piter\OneDrive\Área de Trabalho\VBNET_aulasistema\VBNET_aulasistema\prj_cadastro\prj_cadastro\bin\Debug\prj_cadastro.pdb
+C:\Users\piter\OneDrive\Área de Trabalho\VBNET_aulasistema\VBNET_aulasistema\prj_cadastro\prj_cadastro\bin\Debug\prj_cadastro.xml
+C:\Users\piter\OneDrive\Área de Trabalho\VBNET_aulasistema\VBNET_aulasistema\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.vbproj.AssemblyReference.cache
+C:\Users\piter\OneDrive\Área de Trabalho\VBNET_aulasistema\VBNET_aulasistema\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.exe.config
+C:\Users\piter\OneDrive\Área de Trabalho\VBNET_aulasistema\VBNET_aulasistema\prj_cadastro\prj_cadastro\obj\Debug\Interop.ADODB.dll
+C:\Users\piter\OneDrive\Área de Trabalho\VBNET_aulasistema\VBNET_aulasistema\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.vbproj.ResolveComReference.cache
+C:\Users\piter\OneDrive\Área de Trabalho\VBNET_aulasistema\VBNET_aulasistema\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.frm_menu.resources
+C:\Users\piter\OneDrive\Área de Trabalho\VBNET_aulasistema\VBNET_aulasistema\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.frm_usuarios.resources
+C:\Users\piter\OneDrive\Área de Trabalho\VBNET_aulasistema\VBNET_aulasistema\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.frm_login.resources
+C:\Users\piter\OneDrive\Área de Trabalho\VBNET_aulasistema\VBNET_aulasistema\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.frm_cadastro.resources
+C:\Users\piter\OneDrive\Área de Trabalho\VBNET_aulasistema\VBNET_aulasistema\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.Resources.resources
+C:\Users\piter\OneDrive\Área de Trabalho\VBNET_aulasistema\VBNET_aulasistema\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.vbproj.GenerateResource.cache
+C:\Users\piter\OneDrive\Área de Trabalho\VBNET_aulasistema\VBNET_aulasistema\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.vbproj.CoreCompileInputs.cache
+C:\Users\piter\OneDrive\Área de Trabalho\VBNET_aulasistema\VBNET_aulasistema\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.exe
+C:\Users\piter\OneDrive\Área de Trabalho\VBNET_aulasistema\VBNET_aulasistema\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.xml
+C:\Users\piter\OneDrive\Área de Trabalho\VBNET_aulasistema\VBNET_aulasistema\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.pdb
+C:\Users\Fellipe\Downloads\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\bin\Debug\prj_cadastro.exe.config
+C:\Users\Fellipe\Downloads\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\bin\Debug\prj_cadastro.exe
+C:\Users\Fellipe\Downloads\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\bin\Debug\prj_cadastro.pdb
+C:\Users\Fellipe\Downloads\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\bin\Debug\prj_cadastro.xml
+C:\Users\Fellipe\Downloads\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.vbproj.AssemblyReference.cache
+C:\Users\Fellipe\Downloads\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.exe.config
+C:\Users\Fellipe\Downloads\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\obj\Debug\Interop.ADODB.dll
+C:\Users\Fellipe\Downloads\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.vbproj.ResolveComReference.cache
+C:\Users\Fellipe\Downloads\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.frm_menu.resources
+C:\Users\Fellipe\Downloads\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.frm_usuarios.resources
+C:\Users\Fellipe\Downloads\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.frm_login.resources
+C:\Users\Fellipe\Downloads\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.Resources.resources
+C:\Users\Fellipe\Downloads\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.vbproj.GenerateResource.cache
+C:\Users\Fellipe\Downloads\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.vbproj.CoreCompileInputs.cache
+C:\Users\Fellipe\Downloads\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.exe
+C:\Users\Fellipe\Downloads\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.xml
+C:\Users\Fellipe\Downloads\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.pdb
+D:\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.vbproj.AssemblyReference.cache
+D:\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\obj\Debug\Interop.ADODB.dll
+D:\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.vbproj.ResolveComReference.cache
+D:\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.exe
+D:\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.xml
+D:\VBNET_SistemaLogin\prj_cadastro\prj_cadastro\obj\Debug\prj_cadastro.pdb
+D:\VBNET_SistemaLogin\prj_cadastro\obj\Debug\prj_cadastro.vbproj.AssemblyReference.cache
+D:\VBNET_SistemaLogin\prj_cadastro\obj\Debug\Interop.ADODB.dll
+D:\VBNET_SistemaLogin\prj_cadastro\obj\Debug\prj_cadastro.vbproj.ResolveComReference.cache
+D:\VBNET_SistemaLogin\prj_cadastro\obj\Debug\prj_cadastro.exe
+D:\VBNET_SistemaLogin\prj_cadastro\obj\Debug\prj_cadastro.xml
+D:\VBNET_SistemaLogin\prj_cadastro\obj\Debug\prj_cadastro.pdb
+D:\VBNET_SistemaLogin\prj_cadastro\bin\Debug\prj_cadastro.exe.config
+D:\VBNET_SistemaLogin\prj_cadastro\bin\Debug\prj_cadastro.exe
+D:\VBNET_SistemaLogin\prj_cadastro\bin\Debug\prj_cadastro.pdb
+D:\VBNET_SistemaLogin\prj_cadastro\bin\Debug\prj_cadastro.xml
+D:\VBNET_SistemaLogin\prj_cadastro\obj\Debug\prj_cadastro.frm_menu.resources
+D:\VBNET_SistemaLogin\prj_cadastro\obj\Debug\prj_cadastro.frm_usuarios.resources
+D:\VBNET_SistemaLogin\prj_cadastro\obj\Debug\prj_cadastro.frm_login.resources
+D:\VBNET_SistemaLogin\prj_cadastro\obj\Debug\prj_cadastro.Resources.resources
+D:\VBNET_SistemaLogin\prj_cadastro\obj\Debug\prj_cadastro.vbproj.GenerateResource.cache
+D:\VBNET_SistemaLogin\prj_cadastro\obj\Debug\prj_cadastro.vbproj.CoreCompileInputs.cache
+D:\VBNET_SistemaLogin\prj_cadastro\obj\Debug\prj_cadastro.exe.config
